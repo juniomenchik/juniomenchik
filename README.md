@@ -1,9 +1,5 @@
 # Beleza ? Aqui é o Jeferson Menchik
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/jeferson-junio-menchik-08166a16a/" />][linkedin]
-<br />
 
 ### Languages and Tools:
 
