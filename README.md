@@ -1,50 +1,56 @@
 # Beleza ? Aqui é o Jeferson Menchik
 
-Tech Stack:
+Tech Stack:<br>
 
-Front-end:
-  Conhecimento:
-    HTML,CSS : Médio
-    JavaScript : Básico
-    PHP : Básico
-    Bootstrap : Básico
-  Experiencia:
-    HTML,CSS : Nenhum
-    JavaScript : Nenhum
-    PHP : Nenhum
-    Bootstrap : Nenhum
+Front-end:<br>
+  Conhecimento:<br>
+    HTML,CSS : Médio<br>
+    JavaScript : Básico<br>
+    PHP : Básico<br>
+    Bootstrap : Básico<br>
+  Experiencia:<br>
+    HTML,CSS : Nenhum<br>
+    JavaScript : Nenhum<br>
+    PHP : Nenhum<br>
+    Bootstrap : Nenhum<br>
 
- Back-end:
-  Conhecimento:
-    Java : Avançado
-    SQL : Médio
-    NoSQL : Básico
-    Gradle : Médio
-    Maven : Médio
-    SpringMVC : Médio
-    Kafka : Médio
-  Experiencia:
-    Java : Médio
-    SQL : Básico
-    NoSQL : Nenhum
-    Gradle : Básico
-    Maven : Nenhum
-    SpringMVC : Básico
-    Kafka : Básico
+ Back-end:<br>
+  Conhecimento:<br>
+    Java : Avançado<br>
+    SQL : Médio<br>
+    NoSQL : Básico<br>
+    Gradle : Médio<br>
+    Maven : Médio<br>
+    SpringMVC : Médio<br>
+    Kafka : Médio<br>
+  Experiencia:<br>
+    Java : Médio<br>
+    SQL : Básico<br>
+    NoSQL : Nenhum<br>
+    Gradle : Básico<br>
+    Maven : Nenhum<br>
+    SpringMVC : Básico<br>
+    Kafka : Básico<br>
 
-  Dev-ops:
-  Conhecimento:
-  Jenkins: Médio
-  Google Cloud: Médio
-  Amazon Web Services : Básico
-  MicroServiços: Médio
-  Mensageria : Básico
-  Experiencia:
-  Jenkins: Médio
-  Google Cloud: Nenhum
-  Amazon Web Services : Básico
-  MicroServiços: Médio
-  Mensageria : Básico
+  Dev-ops:<br>
+  Conhecimento:<br>
+  Jenkins: Médio<br>
+  Google Cloud: Médio<br>
+  Amazon Web Services : Básico<br>
+  MicroServiços: Médio<br>
+  Mensageria : Básico<br>
+  Experiencia:<br>
+  Jenkins: Médio<br>
+  Google Cloud: Nenhum<br>
+  Amazon Web Services : Básico<br>
+  MicroServiços: Médio<br>
+  Mensageria : Básico<br>
+
+<div>
+<a href="https://github.com/juniomenchik">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniomenchik&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniomenchik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 [linkedin]: https://www.linkedin.com/in/jeferson-junio-menchik-08166a16a/
 
