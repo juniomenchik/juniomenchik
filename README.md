@@ -1,14 +1,50 @@
 # Beleza ? Aqui é o Jeferson Menchik
 
+Tech Stack:
 
-### Languages and Tools:
+Front-end:
+  Conhecimento:
+    HTML,CSS : Médio
+    JavaScript : Básico
+    PHP : Básico
+    Bootstrap : Básico
+  Experiencia:
+    HTML,CSS : Nenhum
+    JavaScript : Nenhum
+    PHP : Nenhum
+    Bootstrap : Nenhum
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
+ Back-end:
+  Conhecimento:
+    Java : Avançado
+    SQL : Médio
+    NoSQL : Básico
+    Gradle : Médio
+    Maven : Médio
+    SpringMVC : Médio
+    Kafka : Médio
+  Experiencia:
+    Java : Médio
+    SQL : Básico
+    NoSQL : Nenhum
+    Gradle : Básico
+    Maven : Nenhum
+    SpringMVC : Básico
+    Kafka : Básico
+
+  Dev-ops:
+  Conhecimento:
+  Jenkins: Médio
+  Google Cloud: Médio
+  Amazon Web Services : Básico
+  MicroServiços: Médio
+  Mensageria : Básico
+  Experiencia:
+  Jenkins: Médio
+  Google Cloud: Nenhum
+  Amazon Web Services : Básico
+  MicroServiços: Médio
+  Mensageria : Básico
 
 [linkedin]: https://www.linkedin.com/in/jeferson-junio-menchik-08166a16a/
 
